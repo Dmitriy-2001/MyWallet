@@ -1,0 +1,27 @@
+<resources>
+    <string-array name="filter_types">
+        <item>Общий</item>
+        <item>Расходы</item>
+        <item>Доходы</item>
+    </string-array>
+
+    <string-array name="months">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <!-- и так далее -->
+    </string-array>
+
+    <string-array name="languages">
+        <item>Русский</item>
+        <item>English</item>
+        <item>Türkçe</item>
+    </string-array>
+
+    <string-array name="banks">
+        <item>Ziraat</item>
+        <item>İş Bankası</item>
+        <item>Halkbank</item>
+        <item>Другой</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<!-- res/values/dimens.xml -->
+<resources>
+    <dimen name="screen_padding">16dp</dimen>
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="chart_height">240dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="bottom_nav_height">72dp</dimen>
+</resources>
